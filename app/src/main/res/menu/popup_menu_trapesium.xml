@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/luastrapesium"
+        android:title="Luas Trapesium"/>
+
+    <item
+        android:id ="@+id/kelilingtrapesium"
+        android:title="Keliling Trapesium"/>
+</menu>
